@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "688473352122",
+    "firebase_url": "https://lemonhr-3c7c8.firebaseio.com",
+    "project_id": "lemonhr-3c7c8",
+    "storage_bucket": "lemonhr-3c7c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688473352122:android:d6f29dc3a04428898e5f83",
+        "android_client_info": {
+          "package_name": "lemonhr.diginet.com.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688473352122-8so4sojm43vb74hkdssl6nl646mchskh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdaPce3sH-yXvg9UY-8GzfLDg_EF_rFks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688473352122-8so4sojm43vb74hkdssl6nl646mchskh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "688473352122-g6adirfdju98oljanfe1mig3pbn92984.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "lemonhr.diginet.com.vn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

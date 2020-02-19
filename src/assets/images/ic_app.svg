@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="110" viewBox="0 0 110 110">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_703" data-name="Rectangle 703" width="110" height="110" transform="translate(125 85)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_705" data-name="Rectangle 705" width="110" height="110"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_29" data-name="Mask Group 29" transform="translate(-125 -85)" clip-path="url(#clip-path)">
+    <g id="HR" transform="translate(125 85)" clip-path="url(#clip-path-2)">
+      <rect id="Rectangle_704" data-name="Rectangle 704" width="110" height="110" fill="#fff"/>
+      <g id="Group_5430" data-name="Group 5430">
+        <path id="Polygon_2" data-name="Polygon 2" d="M33.918,37.812a25.08,25.08,0,0,1,43.484,0L89.71,59.218A25.08,25.08,0,0,1,67.968,96.8H43.351A25.08,25.08,0,0,1,21.609,59.218Z" transform="translate(-1.181 2.446) rotate(-5)" fill="#83e0c0"/>
+        <path id="Polygon_1" data-name="Polygon 1" d="M35.894,37.848a25.08,25.08,0,0,1,43.492,0l14.3,24.9A25.082,25.082,0,0,1,71.945,100.32H43.335A25.081,25.081,0,0,1,21.589,62.744Z" transform="translate(-23.071 19.164) rotate(-28)" fill="#00a052" opacity="0.73"/>
+        <path id="Polygon_3" data-name="Polygon 3" d="M35.894,37.848a25.08,25.08,0,0,1,43.492,0l14.3,24.9A25.082,25.082,0,0,1,71.945,100.32H43.335A25.081,25.081,0,0,1,21.589,62.744Z" transform="matrix(0.358, -0.934, 0.934, 0.358, -36.354, 88.068)" fill="#00d7eb" opacity="0.7"/>
+        <path id="Intersection_2" data-name="Intersection 2" d="M-1230.42,795.872l10.4-22.4a24.738,24.738,0,0,1,15.012-13.31l4.884-.763a25.51,25.51,0,0,1,6.616-.176,24.728,24.728,0,0,1,16.806,10.46l3.941,5.649a24.73,24.73,0,0,1-.077,17.835l-10.252,26.708a24.908,24.908,0,0,1-7.216,10.208l-15.174,1.327c-.771.067-1.535.1-2.288.1A25.084,25.084,0,0,1-1230.42,795.872Z" transform="translate(1255.926 -736.315)" fill="#00a3b2"/>
+        <path id="Intersection_1" data-name="Intersection 1" d="M-813.358,816.147l.942-28.7a25.249,25.249,0,0,1,1.672-8.312l27.738-4.334A25.08,25.08,0,0,1-755.72,808.57l-9.4,24.482-11.4,6.061a24.933,24.933,0,0,1-11.756,2.974A25.111,25.111,0,0,1-813.358,816.147Z" transform="translate(838.806 -751.717)" fill="#005655"/>
+        <circle id="Ellipse_101" data-name="Ellipse 101" cx="19.311" cy="19.311" r="19.311" transform="translate(33.286 38.39)" fill="#69a13b" stroke="#fff" stroke-width="3.96"/>
+        <circle id="Ellipse_105" data-name="Ellipse 105" cx="21.78" cy="21.78" r="21.78" transform="translate(30.8 36.08)" fill="#fff"/>
+        <text id="HR-2" data-name="HR" transform="translate(39.6 64.24)" fill="#005655" font-size="17" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">HR</tspan></text>
+        <path id="Path_6308" data-name="Path 6308" d="M554.334,235.618s6.929-5.336,15.062,2.9C569.488,238.66,561.251,243.617,554.334,235.618Z" transform="translate(-489.828 -198.963)" fill="#fff" fill-rule="evenodd"/>
+        <path id="Path_6309" data-name="Path 6309" d="M478.768,35.376s-7.955-2.352-6.065-14.216C472.82,20.592,480.665,25.879,478.768,35.376Z" transform="translate(-416.289 1.653)" fill="#fff" fill-rule="evenodd"/>
+        <path id="Path_6310" data-name="Path 6310" d="M541.347,175.8s-3.739-8.152-8.881-8.112c-.311.04,0,1.739,0,1.739s4.744.807,7.916,6.76C540.41,176.207,541.347,175.8,541.347,175.8Z" transform="translate(283.199 -485.088) rotate(94.992)" fill="#fff" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
